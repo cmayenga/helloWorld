@@ -1,6 +1,6 @@
 `helloWorld` <- 
 function(
-	n 
+	n=4 
 	) {
 
 	return(rep("Hello World", n))
